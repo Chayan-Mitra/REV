@@ -1,2 +1,3 @@
-# REV
+![REV-logo](https://user-images.githubusercontent.com/74533220/150673658-ff62c984-538b-4109-825b-7a567309c454.gif)
+# REV - Reverse everything...
 This is a simple tool that can reverse a string or a number.
